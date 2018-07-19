@@ -63,7 +63,7 @@ body {
          display: flex;
          border-left: thick solid #69696a;
          border-left-width:3px;
-         height: 100px;
+         height: 150px;
          margin-left: 1%; 
   }
   .h1 {
@@ -73,6 +73,7 @@ body {
         margin-left: 1%;
   }
   .paragraph {
+        width: 400px;
         display: flex;
         margin-left: 1%;
         color:#69696a;
